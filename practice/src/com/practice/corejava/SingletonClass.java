@@ -1,0 +1,43 @@
+package com.practice.corejava;
+
+public class SingletonClass {
+	
+	int y=10;
+	static SingletonClass x= null;
+	
+	
+	
+	private SingletonClass() {
+		
+		
+		System.out.println("Constructor is called");
+		
+	}
+	
+	public static synchronized SingletonClass getSingletonObject() {
+		
+		if(x==null)
+		{
+			
+			System.out.println("Singleton Object sis returned");
+			x= new SingletonClass();
+		}
+		return x;
+	}
+
+	public static void main(String[] args) {
+		
+		
+		SingletonClass s1= getSingletonObject();
+		s1.y=20;
+		System.out.println(s1);
+		SingletonClass s2= getSingletonObject();
+		s2.y=90;
+		System.out.println(s2.y);
+
+		
+		
+
+	}
+
+}

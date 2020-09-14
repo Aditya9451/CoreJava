@@ -1,0 +1,15 @@
+
+ƒsquid:S3973G"GUse indentation to denote the code conditionally executed by this "if".(ŸıÍµûÿÿÿÿ8£ûãïÆ.HRCRITICALZ
+CODE_SMELL
+„squid:CommentedOutCodeLine:"<This block of commented-out lines of code should be removed.(ƒüôĞúÿÿÿÿ8©ßïÆ.HÖRMAJORZ
+CODE_SMELL
+…squid:S3973I"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8€ÃŞïÆ.HRCRITICALZ
+CODE_SMELL
+Àsquid:S2681."†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(”É°Åıÿÿÿÿ8Ú¢ŸæÄ.H´RMAJORZ
+CODE_SMELL
+esquid:S11359"2Complete the task associated to this TODO comment.(×Ø §8™ÕÿçÄ.H±RINFOZ
+CODE_SMELL
+]squid:S1659%"$Declare "result" on a separate line.(ú‡…œúÿÿÿÿ8Øï–çÄ.H³RMINORZ
+CODE_SMELL
+jsquid:S1135D"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ãıÚïÆ.HRINFOZ
+CODE_SMELL

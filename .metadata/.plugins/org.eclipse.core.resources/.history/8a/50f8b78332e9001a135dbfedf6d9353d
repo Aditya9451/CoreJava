@@ -1,0 +1,15 @@
+package com.practice.corejava;
+
+public class MainThread {
+	
+	
+	Multithread m1= new Multithread();
+	Multithread m2= new Multithread();
+	
+	
+	{
+		
+		m1.start();
+	}
+
+}

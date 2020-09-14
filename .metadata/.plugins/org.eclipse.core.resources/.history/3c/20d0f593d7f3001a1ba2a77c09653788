@@ -1,0 +1,10 @@
+package com.collections.basics;
+
+public interface interface1 {
+	
+	void run() {
+		
+		System.out.println("Interface method is running");
+	}
+
+}

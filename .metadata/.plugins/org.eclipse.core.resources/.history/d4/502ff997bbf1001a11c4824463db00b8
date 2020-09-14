@@ -1,0 +1,41 @@
+package com.practice.corejava;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class MaxSalary {
+	
+	private int salary;
+	private String name;
+	
+	
+
+	public MaxSalary(int salary, String name) {
+		super();
+		this.salary = salary;
+		this.name = name;
+	}
+
+
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		List<MaxSalary>maximum= new ArrayList<MaxSalary>();
+		
+		maximum.add(new MaxSalary(10000, "Ram"));
+		maximum.add(new MaxSalary(20000, "Shyam"));
+		maximum.add(new MaxSalary(30000,"Raju"));
+		maximum.add(new MaxSalary(5000, "Mohan"));
+		
+		Comparator<M>
+		
+		
+		//Integer res= maximum.stream().max(Integer::compare).get();
+		
+		
+		
+		
+	}
+
+}

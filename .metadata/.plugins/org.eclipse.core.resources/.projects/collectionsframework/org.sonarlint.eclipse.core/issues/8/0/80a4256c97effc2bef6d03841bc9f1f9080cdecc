@@ -1,0 +1,17 @@
+
+csquid:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿHÊ	RINFOZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¨‰ÚÅøÿÿÿÿ8ÂÎöçÄ.HË	RMINORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ûéþÚøÿÿÿÿ8Þ•§èÄ.HÌ	RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8Þ•§èÄ.HÍ	RMAJORZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€“ªµýÿÿÿÿ8Þ•§èÄ.HÎ	RMAJORZ
+CODE_SMELL
+~squid:S3973("GUse indentation to denote the code conditionally executed by this "if".(ËÛŸš8¹ïèÄ.HÏ	RCRITICALZ
+CODE_SMELL
+„squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍñÄ¼úÿÿÿÿ8¯˜¨èÄ.HÐ	RMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine#"<This block of commented-out lines of code should be removed.(Œï¡8¯˜¨èÄ.HÑ	RMAJORZ
+CODE_SMELL

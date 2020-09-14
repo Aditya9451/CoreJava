@@ -1,0 +1,29 @@
+package com.practice.set;
+
+import java.util.TreeSet;
+
+public class TreeSetExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		TreeSet<Integer> ts= new TreeSet<Integer>();
+		
+		ts.add(1);
+		ts.add(2);
+		ts.add(4);
+		ts.add(3);
+		ts.add(6);
+		
+		System.out.println(ts);
+		
+		TreeSet<String> ts1= new TreeSet<String>(String.CASE_INSENSITIVE_ORDER);
+		
+		ts1.add("Aditya");
+		ts1.add("aditya");
+		ts.add("Mohan");
+		ts1.add("adit");
+
+	}
+
+}

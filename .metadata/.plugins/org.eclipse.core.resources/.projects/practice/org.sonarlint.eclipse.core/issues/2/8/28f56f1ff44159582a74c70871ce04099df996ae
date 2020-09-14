@@ -1,0 +1,17 @@
+
+usquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8¡â³¯Ã.HsRMINORZ
+CODE_SMELL
+¿%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8Œ‡áÃÃ.H™RMINORZ
+CODE_SMELL
+squid:S00112"FDefine and throw a dedicated exception instead of using a generic one.(¤şôãùÿÿÿÿ8¡â³¯Ã.HrRMAJORZ
+CODE_SMELL
+[squid:S1481"'Remove this unused "ob" local variable.(Ä²°á8†ÈñÂÃ.H‘RMINORZ
+CODE_SMELL
+Tsquid:S2129" Remove this "String" constructor(Ö×‡Î8·‚ÚÂÃ.HƒRMAJORZ
+CODE_SMELL
+Ysquid:S2129" Remove this "String" constructor(Ãçºıÿÿÿÿ8†ÈñÂÃ.HRMAJORZ
+CODE_SMELL
+jsquid:S1854"6Remove this useless assignment to local variable "ob".(Ä²°á8†ÈñÂÃ.HRMAJORZ
+CODE_SMELL
+’squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(’¡øy8·‚ÚÂÃ.HRMAJORZ
+CODE_SMELL

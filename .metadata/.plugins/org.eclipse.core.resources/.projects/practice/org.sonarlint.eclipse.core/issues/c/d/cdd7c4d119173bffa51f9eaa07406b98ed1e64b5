@@ -1,0 +1,14 @@
+
+csquid:S1135
+"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHÅRINFOZ
+CODE_SMELL
+squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Éú‡“8ß¶ÁÉÄ.HĞRMINORZ
+CODE_SMELL
+~squid:UselessImportCheck"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8Ê»ŞÉÄ.HİRMINORZ
+CODE_SMELL
+esquid:S1612",Replace this lambda with a method reference.(Õ”¡†øÿÿÿÿ8ß¶ÁÉÄ.HÜRMINORZ
+CODE_SMELL
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ïî²ùÿÿÿÿ8ß¶ÁÉÄ.HÏRMINORZ
+CODE_SMELL
+esquid:S1612",Replace this lambda with a method reference.(Õ”¡†øÿÿÿÿ8ßÅßÉÄ.HàRMINORZ
+CODE_SMELL

@@ -1,0 +1,25 @@
+package com.java8.lambdaexp;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.function.Consumer;
+
+public class LambdaExp implements FuncInterface {
+
+	public static void main(String[] args) {
+
+		FuncInterface func = (int x) -> System.out.println("Hi this is Lambda Expression" + 2 * x);
+		func.print(5);
+
+		List<String> list = Arrays.asList("Aditya", "Preeti", "Priyanka", "RJ", "UJ");
+		Consumer<String> c = (String t) -> System.out.println(t);
+
+		list.forEach(t -> System.out.println(t));
+	}
+
+	@Override
+	public void print(int x) {
+
+	}
+
+}

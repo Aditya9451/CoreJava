@@ -1,0 +1,11 @@
+
+esquid:S1612",Replace this lambda with a method reference.(ºí³×ùÿÿÿÿ8¶¬¯óÆ.HÃ	RMINORZ
+CODE_SMELL
+_squid:S1481"&Remove this unused "c" local variable.(ºí³×ùÿÿÿÿ8è•±óÆ.HÉ	RMINORZ
+CODE_SMELL
+nsquid:S1854"5Remove this useless assignment to local variable "c".(ºí³×ùÿÿÿÿ8è•±óÆ.HÈ	RMAJORZ
+CODE_SMELL
+`squid:S1612",Replace this lambda with a method reference.(ÙíÛŽ8è•±óÆ.HÇ	RMINORZ
+CODE_SMELL
+½squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¼±Þ•úÿÿÿÿ8–€ƒöÆ.Hå	RCRITICALZ
+CODE_SMELL

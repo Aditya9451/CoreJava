@@ -1,0 +1,29 @@
+package com.collections.list;
+
+public class ReverseLinkedList {
+	
+	
+	static Node head;
+	
+	static class Node{
+		
+		Node next;
+		int data;
+		public Node(int data) {
+			super();
+			this.data = data;
+		}
+		
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		
+		
+
+	}
+
+}

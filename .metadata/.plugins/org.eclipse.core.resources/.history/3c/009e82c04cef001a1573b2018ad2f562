@@ -1,0 +1,10 @@
+package com.practice.corejava;
+
+public class FrequencyApproach {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

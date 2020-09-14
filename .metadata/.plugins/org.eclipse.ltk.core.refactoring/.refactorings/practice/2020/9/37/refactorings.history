@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;max&apos; in &apos;com.practice.corejava.MaxSalary.main(...)&apos; to &apos;maximum&apos;&#x0D;&#x0A;- Original project: &apos;practice&apos;&#x0D;&#x0A;- Original element: &apos;com.practice.corejava.MaxSalary.main(String[]).max&apos;&#x0D;&#x0A;- Renamed element: &apos;max&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;max&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.practice.corejava{MaxSalary.java[MaxSalary~main~\[QString;@max!370!416!385!387!QList\&lt;QMaxSalary;&gt;;!0!false" name="maximum" references="true" stamp="1599559236346" version="1.0"/>
+</session>

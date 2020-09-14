@@ -1,0 +1,17 @@
+package com.java8.lambdaexp;
+
+public class LambdaExp implements FuncInterface{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		FuncInterface func= ()->System.out.println("Hi this is Lambda Expression");
+
+	func.print();
+
+	
+	}
+
+
+}

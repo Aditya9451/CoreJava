@@ -1,0 +1,7 @@
+
+’squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ñâ¹€øÿÿÿÿ8˜ŒÏåÄ.H£RMINORZ
+CODE_SMELL
+`squid:S1481"'Remove this unused "e2" local variable.(Õª’Éıÿÿÿÿ8—±íÄ.H¤RMINORZ
+CODE_SMELL
+osquid:S1854"6Remove this useless assignment to local variable "e2".(Õª’Éıÿÿÿÿ8—±íÄ.H¥RMAJORZ
+CODE_SMELL

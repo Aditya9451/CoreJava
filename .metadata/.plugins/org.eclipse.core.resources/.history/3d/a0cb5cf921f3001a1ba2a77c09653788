@@ -1,0 +1,23 @@
+package com.java8.predicate;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collector;
+import java.util.stream.Collectors;
+
+public class PredicateExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		List<Integer> list= Arrays.asList(1,3,4,5,8,7);
+		
+		List<Integer> list1= list.stream().filter(n->n%2==0 && n<5).collect(Collectors.toList());
+		
+		System.out.println(list1);
+		System.out.println(list.stream().count());
+
+	}
+
+}

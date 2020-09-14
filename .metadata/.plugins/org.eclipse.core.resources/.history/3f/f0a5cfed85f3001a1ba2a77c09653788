@@ -1,0 +1,15 @@
+package com.java.string;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public final class StringImmutability {
+	
+	private final int a=1;
+	private final String name="Aditya";
+	
+	List<Integer> list= new ArrayList<Integer>();
+	
+	
+
+}

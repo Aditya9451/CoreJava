@@ -1,0 +1,20 @@
+package com.java8.defaultmethods;
+
+public class DefaultMethods implements interface2, interface1{
+	
+	/*
+	 * public void print() { System.out.println("This is Child Implementation"); }
+	 */
+	
+	public static void main(String[] args) {
+		
+		
+		DefaultMethods int1 = new DefaultMethods();
+		
+		int1.print();
+	}
+	
+	
+	
+	
+}

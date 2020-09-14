@@ -1,0 +1,24 @@
+
+tsquid:S2259!"IA "NullPointerException" could be thrown; "slowPointer" is nullable here.(õëüªýÿÿÿÿHµRMAJORZBUG
+„squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(³Åø…øÿÿÿÿH¶RMINORZ
+CODE_SMELL
+|squid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ýÐšÝH·RMINORZ
+CODE_SMELL
+nsquid:S1854"<Remove this useless assignment to local variable "new_Node".(³Åø…øÿÿÿÿH¸RMAJORZ
+CODE_SMELL
+jsquid:S1854!"8Remove this useless assignment to local variable "temp".(õëüªýÿÿÿÿH¹RMAJORZ
+CODE_SMELL
+csquid:S1854>"6Remove this useless assignment to local variable "rl".(‡–ÿÅHºRMAJORZ
+CODE_SMELL
+csquid:S1135;"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿH»RINFOZ
+CODE_SMELL
+Vsquid:S1481")Remove this unused "temp" local variable.(Ÿ¥ÐH¼RMINORZ
+CODE_SMELL
+_squid:S1481"-Remove this unused "new_Node" local variable.(³Åø…øÿÿÿÿH½RMINORZ
+CODE_SMELL
+Tsquid:S1481>"'Remove this unused "rl" local variable.(‡–ÿÅH¾RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(€ÙÓùÿÿÿÿH¿RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineD"<This block of commented-out lines of code should be removed.(üÞîøÿÿÿÿHÀRMAJORZ
+CODE_SMELL

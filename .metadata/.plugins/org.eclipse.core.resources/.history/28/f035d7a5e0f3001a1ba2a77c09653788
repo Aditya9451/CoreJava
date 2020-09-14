@@ -1,0 +1,43 @@
+package com.collections.list;
+
+public class ReverseLinkedList {
+	
+	
+	static Node head;
+	
+	static class Node{
+		
+		Node next;
+		int data;
+		public Node(int data) {
+			super();
+			this.data = data;
+		}
+		
+		
+	}
+
+	
+	static Node reverselinkedList(Node n) {
+		
+		
+		return head;
+		
+		
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		
+		ReverseLinkedList rl = new ReverseLinkedList();
+		rl.head= new Node(1);
+		rl.head.next= new Node(3);
+		rl.head.next.next= new Node(4);
+		rl.head.next.next.next= new Node(6);
+		
+		reverselinkedList(head);
+		
+
+	}
+
+}

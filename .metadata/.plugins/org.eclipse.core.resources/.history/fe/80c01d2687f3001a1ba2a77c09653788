@@ -1,0 +1,46 @@
+package com.java.string;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public final class StringImmutability {
+	
+	private final int a;
+	private final String name;
+	
+	private final List<Integer> list= new ArrayList<Integer>();
+	
+	
+
+	public StringImmutability(int a, String name) {
+		super();
+		this.a = a;
+		this.name = name;
+	}
+
+	public int getA() {
+		return a;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public List<Integer> getList() {
+		return list;
+	}
+	
+	
+	
+
+	public static void main(String[] args) {
+		
+		
+		StringImmutability str= new StringImmutability();
+		List<Integer>ap=str.getList();
+	}
+	
+	
+	
+
+}

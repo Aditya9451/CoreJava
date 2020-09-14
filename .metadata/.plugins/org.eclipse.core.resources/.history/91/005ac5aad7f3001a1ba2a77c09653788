@@ -1,0 +1,15 @@
+package com.collections.basics;
+
+import com.practice.map.Employee;
+
+public class InterfaceAndClass extends Employee implements interface1{
+
+	@Override
+	public void run() {
+		
+		
+		System.out.println("Implemenattion method is running");
+		
+	}
+
+}

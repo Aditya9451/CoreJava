@@ -1,0 +1,18 @@
+
+Ysquid:S1612",Replace this lambda with a method reference.(•ëï€H¢RMINORZ
+CODE_SMELL
+„squid:S00117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çéÀËşÿÿÿÿH£RMINORZ
+CODE_SMELL
+…squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯¬«~H¤RMINORZ
+CODE_SMELL
+‹squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÈõÿÿÿÿÿH¥RMINORZ
+CODE_SMELL
+‹squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÓñÜğøÿÿÿÿH¦RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÔÌã‰ÿÿÿÿÿH§RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³Ä™¿üÿÿÿÿH¨RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(éØ»ÚûÿÿÿÿH©RMAJORZ
+CODE_SMELL

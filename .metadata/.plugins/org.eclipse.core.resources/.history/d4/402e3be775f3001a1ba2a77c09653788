@@ -1,0 +1,24 @@
+package com.practice.map;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class HashMapExample {
+
+	public static void main(String[] args) {
+
+		
+		HashMap< Employee, String> hm = new HashMap<Employee, String>();
+		
+		Employee e1= new Employee("Aditya",28);
+		Employee e2= new Employee("Aditya Raj",27);
+		System.out.println("CHeck1"+hm.put(e1,"Road"));
+		
+		
+		  for(Map.Entry<Employee, String> ent: hm.entrySet()) {
+		  
+		  System.out.println(ent.getValue()); }
+		 
+
+}
+}
